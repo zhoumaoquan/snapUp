@@ -1,0 +1,134 @@
+@charset "UTF-8";
+/**
+ * 这里是uni-app内置的常用样式变量
+ *
+ * uni-app 官方扩展插件及插件市场（https://ext.dcloud.net.cn）上很多三方插件均使用了这些样式变量
+ * 如果你是插件开发者，建议你使用scss预处理，并在插件代码中直接使用这些变量（无需 import 这个文件），方便用户通过搭积木的方式开发整体风格一致的App
+ *
+ */
+/**
+ * 如果你是App开发者（插件使用者），你可以通过修改这些变量来定制自己的插件主题，实现自定义主题功能
+ *
+ * 如果你的项目同样使用了scss预处理，你也可以直接在你的 scss 代码中使用如下变量，同时无需 import 这个文件
+ */
+/* 颜色变量 */
+/* 行为相关颜色 */
+/* 文字基本颜色 */
+/* 背景颜色 */
+/* 边框颜色 */
+/* 尺寸变量 */
+/* 文字尺寸 */
+/* 图片尺寸 */
+/* Border Radius */
+/* 水平间距 */
+/* 垂直间距 */
+/* 透明度 */
+/* 文章场景相关 */
+page {
+  background-color: #F2F2F2;
+}
+.mg-top {
+  margin-top: 20rpx;
+}
+.mg-r {
+  margin-right: 10rpx;
+}
+.app-box-item {
+  width: 100%;
+  height: 104rpx;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  padding: 0 30rpx;
+  background-color: #FFFFFF;
+  border-bottom: 1rpx solid #F2F2F2;
+}
+.app-box-item .title {
+  font-size: 30rpx;
+  color: #333333;
+  font-weight: bold;
+}
+.app-box-item .app-box-value {
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+          flex: 1;
+  text-align: right;
+}
+.app-box-item .app-box-value .tips {
+  font-size: 28rpx;
+  color: #999999;
+  font-weight: bold;
+  font-family: PingFang;
+}
+.app-box-item .app-box-value input {
+  width: 100%;
+  height: 100%;
+  text-align: right;
+  color: #333333;
+  font-size: 30rpx;
+}
+.app-box-item .app-box-value .text {
+  color: #333333;
+  font-size: 30rpx;
+}
+.app-box-item .app-box-value .app-box-image {
+  width: 100%;
+  height: 103rpx;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  -webkit-box-pack: end;
+  -webkit-justify-content: flex-end;
+          justify-content: flex-end;
+}
+.app-box-cont {
+  background-color: #FFFFFF;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  padding: 30rpx;
+  height: 170rpx;
+  width: 100%;
+  border-bottom: 1rpx solid #F2F2F2;
+}
+.app-box-cont textarea {
+  height: 100%;
+  font-size: 30rpx;
+  color: #333333;
+  line-height: 42rpx;
+}
+.app-btn {
+  width: 100%;
+  height: 97rpx;
+  background: -webkit-gradient(linear, left top, right top, from(#ED343D), to(#FF6638));
+  background: -webkit-linear-gradient(left, #ED343D, #FF6638);
+  background: linear-gradient(90deg, #ED343D, #FF6638);
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+          justify-content: center;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: row;
+          flex-direction: row;
+  color: #FFFFFF;
+  font-size: 32rpx;
+  font-weight: bold;
+  position: fixed;
+  left: 0;
+  right: 0;
+  bottom: 0;
+}
+

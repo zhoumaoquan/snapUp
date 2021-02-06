@@ -1,0 +1,77 @@
+{
+  "pages": [
+    "pages/Home/index",
+    "pages/Goods/index",
+    "pages/Order/index",
+    "pages/My/index",
+    "pages/Home/search",
+    "pages/Goods/details",
+    "pages/Order/submitOrder",
+    "pages/Order/Pay",
+    "pages/Order/details",
+    "pages/Order/logistics",
+    "pages/My/profile",
+    "pages/My/login",
+    "pages/My/wallet",
+    "pages/My/topUp",
+    "pages/My/withdraw",
+    "pages/My/over-detailed",
+    "pages/My/income",
+    "pages/My/sell-detailed",
+    "pages/My/income-detailed",
+    "pages/My/address",
+    "pages/My/edit-address",
+    "pages/My/attention",
+    "pages/My/new",
+    "pages/My/new-details",
+    "pages/My/feedback",
+    "pages/My/aboutUs",
+    "pages/My/setup",
+    "pages/My/setup-detailed",
+    "pages/Home/webview",
+    "pages/Home/rule",
+    "pages/My/promote",
+    "pages/Home/classPage"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "white",
+    "navigationBarTitleText": "抢购商城",
+    "navigationBarBackgroundColor": "#FFFFFF",
+    "backgroundColor": "#FFFFFF"
+  },
+  "tabBar": {
+    "color": "#999999",
+    "selectedColor": "#F2332A",
+    "backgroundColor": "#FFFFFF",
+    "borderStyle": "black",
+    "list": [
+      {
+        "pagePath": "pages/Home/index",
+        "text": "首页",
+        "iconPath": "static/TabBar/home.png",
+        "selectedIconPath": "static/TabBar/home-active.png"
+      },
+      {
+        "pagePath": "pages/Goods/index",
+        "text": "商品",
+        "iconPath": "static/TabBar/goods.png",
+        "selectedIconPath": "static/TabBar/goods-active.png"
+      },
+      {
+        "pagePath": "pages/Order/index",
+        "text": "订单",
+        "iconPath": "static/TabBar/order.png",
+        "selectedIconPath": "static/TabBar/order-active.png"
+      },
+      {
+        "pagePath": "pages/My/index",
+        "text": "我的",
+        "iconPath": "static/TabBar/my.png",
+        "selectedIconPath": "static/TabBar/my-active.png"
+      }
+    ]
+  },
+  "usingComponents": {},
+  "sitemapLocation": "sitemap85.json"
+}

@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "我的关注",
+  "navigationBarTextStyle": "black",
+  "backgroundColor": "#FFFFFF",
+  "usingComponents": {
+    "u-tabs-swiper": "/uview-ui/components/u-tabs-swiper/u-tabs-swiper",
+    "goods-card": "/component/GoodsCard",
+    "z-empty": "/component/Z-empty"
+  }
+}

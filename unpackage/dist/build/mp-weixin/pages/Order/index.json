@@ -1,0 +1,14 @@
+{
+  "navigationBarTitleText": "我的订单",
+  "navigationBarTextStyle": "black",
+  "disableScroll": true,
+  "usingComponents": {
+    "u-tabs-swiper": "/uview-ui/components/u-tabs-swiper/u-tabs-swiper",
+    "u-loadmore": "/uview-ui/components/u-loadmore/u-loadmore",
+    "u-skeleton": "/uview-ui/components/u-skeleton/u-skeleton",
+    "u-top-tips": "/uview-ui/components/u-top-tips/u-top-tips",
+    "order-item": "/component/OrderItem",
+    "z-empty": "/component/Z-empty",
+    "z-toast": "/component/Z-toast"
+  }
+}

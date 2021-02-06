@@ -1,0 +1,1 @@
+<view class="container"><view class="logo"><u-image vue-id="4e99dbb6-1" src="{{logo}}" width="130" height="130" border-radius="20" bind:__l="__l"></u-image><view class="title"><text>公司介绍</text></view></view><u-parse vue-id="4e99dbb6-2" html="{{content}}" bind:__l="__l"></u-parse></view>

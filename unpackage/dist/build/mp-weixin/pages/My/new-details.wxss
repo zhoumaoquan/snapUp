@@ -1,0 +1,1 @@
+.app-box{border-top:10rpx solid #f2f2f2;-webkit-box-sizing:border-box;box-sizing:border-box;padding:35rpx}.app-box-title{font-size:30rpx;color:#333;font-weight:700;margin-bottom:30rpx}.app-box-text{font-size:28rpx;color:#9e9e9e;line-height:39rpx;font-weight:700}

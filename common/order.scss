@@ -1,0 +1,61 @@
+.app-address {
+		width: 100%;
+		height: 155rpx;
+		background-color: #FFFFFF;
+		@include box(0 30rpx); 
+		@include flex-al();
+		margin-bottom: 20rpx;
+		&-icon {
+			width: 60rpx;
+			height: 60rpx;
+			margin-right: 20rpx;
+		}
+
+		&-info {
+			height: 140rpx;
+			flex: 1;
+			display: flex;
+			flex-direction: column;
+			justify-content: space-evenly;
+			.app-address-not {
+				font-size: 32rpx;
+				font-weight: 400;
+				color: #333;
+			}
+			.app-address-name {
+				font-size: 30rpx;
+				color: #333333;
+				font-weight: 500;
+			}
+			.app-address-text {
+				width: 570rpx;
+				font-size: 26rpx;
+				color: #999999;
+				font-weight: 500;
+				@include ellipsis();
+			}
+		}
+	}
+	.app-title-one {
+		width: 100%;
+		height: 86rpx;
+		@include box(0 30rpx);
+		@include flex-al();
+		font-size: 30rpx;
+		font-weight: bold;
+		color: #333333;
+		background-color: #FFFFFF;
+	}
+	.app-title-two {
+		width: 100%;
+		height: 104rpx;
+		@include box(0 30rpx);
+		@include flex-al-ju(space-between);
+		font-size: 30rpx;
+		font-weight: bold;
+		color: #333333;
+		background-color: #FFFFFF;
+		margin-top: 20rpx;
+		border-bottom: 1rpx solid #F2F2F2;
+	}
+	

@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": " ",
+  "navigationBarTextStyle": "black",
+  "backgroundColor": "#FFFFFF",
+  "usingComponents": {
+    "u-parse": "/uview-ui/components/u-parse/u-parse"
+  }
+}

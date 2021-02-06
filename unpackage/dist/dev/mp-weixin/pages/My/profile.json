@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "个人信息",
+  "navigationBarTextStyle": "black",
+  "backgroundColor": "#FFFFFF",
+  "usingComponents": {
+    "u-image": "/uview-ui/components/u-image/u-image",
+    "u-skeleton": "/uview-ui/components/u-skeleton/u-skeleton"
+  }
+}

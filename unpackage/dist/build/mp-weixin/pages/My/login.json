@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "授权登陆",
+  "navigationBarTextStyle": "black",
+  "backgroundColor": "#FFFFFF",
+  "usingComponents": {
+    "u-image": "/uview-ui/components/u-image/u-image"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "常用地址",
+  "navigationBarTextStyle": "black",
+  "backgroundColor": "#FFFFFF",
+  "usingComponents": {
+    "u-radio-group": "/uview-ui/components/u-radio-group/u-radio-group",
+    "u-radio": "/uview-ui/components/u-radio/u-radio",
+    "z-empty": "/component/Z-empty"
+  }
+}

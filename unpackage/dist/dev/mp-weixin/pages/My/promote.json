@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "我的推广",
+  "enablePullDownRefresh": false,
+  "navigationBarTextStyle": "black",
+  "usingComponents": {
+    "u-image": "/uview-ui/components/u-image/u-image",
+    "u-loading": "/uview-ui/components/u-loading/u-loading"
+  }
+}

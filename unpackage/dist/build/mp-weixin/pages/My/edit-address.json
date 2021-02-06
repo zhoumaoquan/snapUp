@@ -1,0 +1,12 @@
+{
+  "navigationBarTitleText": " ",
+  "navigationBarTextStyle": "black",
+  "backgroundColor": "#FFFFFF",
+  "usingComponents": {
+    "u-icon": "/uview-ui/components/u-icon/u-icon",
+    "u-image": "/uview-ui/components/u-image/u-image",
+    "u-loading": "/uview-ui/components/u-loading/u-loading",
+    "u-switch": "/uview-ui/components/u-switch/u-switch",
+    "u-skeleton": "/uview-ui/components/u-skeleton/u-skeleton"
+  }
+}

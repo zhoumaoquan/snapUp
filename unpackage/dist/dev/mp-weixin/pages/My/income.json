@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "收益总览",
+  "navigationBarTextStyle": "white",
+  "backgroundColor": "#FF7045",
+  "navigationBarBackgroundColor": "#FF7045",
+  "usingComponents": {
+    "u-icon": "/uview-ui/components/u-icon/u-icon"
+  }
+}

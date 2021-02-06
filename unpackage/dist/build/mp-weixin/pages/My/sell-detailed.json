@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "销售额明细",
+  "navigationBarTextStyle": "black",
+  "backgroundColor": "#FFFFFF",
+  "usingComponents": {
+    "z-empty": "/component/Z-empty"
+  }
+}

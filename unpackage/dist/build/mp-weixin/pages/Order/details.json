@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "订单详情",
+  "navigationBarTextStyle": "black",
+  "backgroundColor": "#FFFFFF",
+  "usingComponents": {
+    "u-icon": "/uview-ui/components/u-icon/u-icon",
+    "u-skeleton": "/uview-ui/components/u-skeleton/u-skeleton",
+    "good-order": "/component/GoodsOrder"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "余额明细",
+  "navigationBarTextStyle": "black",
+  "backgroundColor": "#FFFFFF",
+  "usingComponents": {
+    "u-loadmore": "/uview-ui/components/u-loadmore/u-loadmore",
+    "z-empty": "/component/Z-empty"
+  }
+}

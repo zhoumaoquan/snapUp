@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "设置",
+  "navigationBarTextStyle": "black",
+  "backgroundColor": "#FFFFFF",
+  "usingComponents": {
+    "u-icon": "/uview-ui/components/u-icon/u-icon",
+    "z-empty": "/component/Z-empty"
+  }
+}
